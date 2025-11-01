@@ -1,0 +1,5 @@
+{
+  "name": "CODECOMPILE",
+  "description": "An online multi-language compiler that uses AI to detect errors and suggest corrections. Features an interactive, AI-themed background and a smooth user experience for writing, running, and debugging code.",
+  "requestFramePermissions": []
+}
